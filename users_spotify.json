@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Jose",
+        "email": "123@123.com",
+        "songs": [
+            "5PCNd6UnT4y9Ygz0KFmIMC",
+            "0vjYxBDAcflD0358arIVZG"
+        ],
+        "artists": [
+            "12Chz98pHFMPJEknJQMWvI",
+            "0L8ExT028jH3ddEcZwqJJ5",
+            "2S5hlvw4CMtMGswFtfdK15"
+        ]
+    },
+    {
+        "name": "Jaime",
+        "email": "321@321.com",
+        "songs": [
+            "37ZJ0p5Jm13JPevGcx4SkF",
+            "57bgtoPSgt236HzfBOd8kj",
+            "5x5JM1BSB6vollcIzDocqT"
+        ],
+        "artists": [
+            "0vEsuISMWAKNctLlUAhSZC",
+            "5rSXSAkZ67PYJSvpUpkOr7"
+        ]
+    }
+]
